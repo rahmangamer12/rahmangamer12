@@ -1,47 +1,97 @@
-# 🚀 I'm Abdul Rehman | AI Agent Architect & Full-Stack Engineer
+# 🌌 The Universe of Abdul Rehman | AI Agent Architect & Full-Stack Engineer
 
-I am a high-impact developer from Karachi specializing in building **Autonomous Digital Workforces**. I bridge the gap between complex AI orchestration and premium user experiences.[cite: 5, 6]
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Sorcery 🎨
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-### AI & Machine Learning 🤖
-![CrewAI](https://img.shields.io/badge/CrewAI-gray?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-Agents%20SDK-black?style=for-the-badge&logo=openai) ![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=for-the-badge) ![Hermes](https://img.shields.io/badge/Hermes-Agent-orange?style=for-the-badge)
-
-### Backend & APIs ⚙️
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Prisma](https://img.shields.io/badge/Prisma-3FB883?style=for-the-badge&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Tooling 🚀
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 💼 Live Demos & Projects 🌟
-
-| Project | Status | Demo |
-| :--- | :--- | :--- |
-| **AutoReview AI** | 🚀 Production Ready | [Live Demo](https://ai-review-writer.vercel.app/) |
-| **Agentia World** | 🏗️ In Progress | [Link](#) |
-| **Luxury SaaS UI** | ✨ Featured | [Link](#) |
-
----
-
-## 📊 GitHub Power Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmangamer12&show_icons=true&theme=tokyonight&count_private=true" alt="Abdul's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmangamer12&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=300&section=header&text=Abdul%20Rehman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20of%20Autonomous%20Agents&descAlignY=51&descSize=25" />
 </p>
 
 ---
 
-### 📫 Connect & Collaborate
-- **LinkedIn:** [Abdul Rehman](https://www.linkedin.com/in/abdul-rahman-program/)
-- **Instagram:** [@ar.official1_](https://www.instagram.com/ar.official1_/)
+## 👨‍💻 About My Mission
+
+I am a 15-year-old visionary developer based in Karachi, Pakistan, dedicated to the mastery of **Agentic AI Orchestration**. While others build simple apps, I architect **Digital Workforces** that think, reason, and solve real-world business problems using the latest AI frameworks.[cite: 5, 6]
+
+- 🔭 **Current Focus:** Engineering autonomous workflows with **OpenClaw** and **Hermes**.
+- ⚡ **Specialization:** Bridging **Three.js** immersive experiences with high-performance **Next.js 16** backends.
+- 🎓 **Education:** Matric Student (Grade 10) & 2-year PIAIC Web/AI Scholar.
+- 💬 **Motto:** "I don't just write code; I design intelligence."
+
+---
+
+## 🚀 Technical Arsenal (The Sorcery)
+
+### 🎨 Frontend Mastery (Visual Arts)
+| Technology | Expertise Level | Description |
+| :--- | :--- | :--- |
+| **Next.js 16 (App Router)** | Advanced | Building SSR/ISR high-performance apps. |
+| **React 19** | Proficient | Expert in Server Components & Concurrent Mode. |
+| **Three.js / Fiber** | Intermediate | Creating 3D immersive web environments.[cite: 1] |
+| **Framer Motion** | Expert | Crafting seamless, professional animations.[cite: 1] |
+| **TailwindCSS 4** | Advanced | Modern, utility-first styling at scale.[cite: 1] |
+| **TypeScript** | Professional | Type-safe, enterprise-grade architecture.[cite: 1] |
+
+### 🤖 AI & Machine Learning (The Brain)
+- **Frameworks:** CrewAI, LangChain, OpenAI Agent SDK.[cite: 5]
+- **Agents:** OpenClaw, Hermes Agent, Model Context Protocol (MCP).[cite: 5, 6]
+- **Models:** GPT-4o, Claude 3.5 Sonnet, Llama 3 (Fine-tuning logic).[cite: 5]
+- **Specialty:** Designing OODA loops for autonomous goal execution.[cite: 6]
+
+### ⚙️ Backend & Infrastructure (The Engine)
+- **Languages:** Python (FastAPI), Node.js, Express.js.[cite: 1, 5]
+- **Database:** Supabase (PostgreSQL), MongoDB, Firebase.[cite: 1]
+- **ORM:** Prisma, Mongoose.[cite: 1]
+- **DevOps:** Docker, Vercel, Git, GitHub Actions.[cite: 1]
+
+---
+
+## 💼 Featured Production: AutoReview AI
+**AutoReview AI** is my flagship SaaS project that leverages Agentic AI to manage business reputations autonomously.[cite: 4]
+
+### Key Architectural Features:
+1. **Autonomous Reasoning:** Uses Agentic SDKs to analyze sentiment and tone.[cite: 4, 5]
+2. **Real-time Dashboard:** Built with Next.js 16 and Three.js for 3D data visualization.[cite: 1, 4]
+3. **Automated Responses:** Zero-shot and Few-shot prompting for 99% accuracy.[cite: 4, 5]
+4. **Enterprise Security:** Integrated with Clerk and Supabase Row Level Security.[cite: 1, 4]
+
+[Check the Live Demo](https://ai-review-writer.vercel.app/) | [Source Code Available on Request]
+
+---
+
+## 📊 My Digital Footprint (Live Stats)
 
 <p align="center">
-  <i>"Great developers aren't scared of AI—they're scared of staying stagnant."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmangamer12&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmangamer12&layout=compact&theme=tokyonight" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmangamer12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 The Road to 2027 (Future Goals)
+- [ ] Complete Matric Board Exams with Top Grades.[cite: 1]
+- [ ] Scale **AutoReview AI** to 100+ Active Users.[cite: 4]
+- [ ] Master Python-based Agentic logic (Current Score: 36% - Goal: 95%).[cite: 5]
+- [ ] Build a community of 5,000+ AI Developers on LinkedIn.[cite: 1]
+
+---
+
+## 🛡️ Career Philosophy & Quotes
+> *"The best way to predict the future is to build an agent that creates it."*
+
+> *"Your code is a reflection of your discipline. Don't be messy."*
+
+---
+
+## ✉️ Connect With the Creator
+If you're looking for an **AI Automation Consultant** or a **Full-Stack Developer** who understands the future of work, let's talk.[cite: 1, 4]
+
+- **LinkedIn:** [Abdul Rehman - AI Architect](https://www.linkedin.com/in/abdul-rahman-program/)
+- **Instagram:** [@ar.official1_](https://www.instagram.com/ar.official1_/)
+- **Location:** Karachi, Pakistan 🇵🇰
+
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
