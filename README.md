@@ -12,7 +12,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/rahmangamer12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=WordPress+Themes+%26+Custom+Plugins+Specialist;Next.js+%2B+Claude+Code+%3D+Websites+Shipped+Fast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=WordPress+Expert+%7C+Custom+Themes+%26+Plugins;Next.js+%2B+AI+Agents+%7C+Fast+Modern+Websites;Building+Real+Products+%7C+Not+Just+Tutorials" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,13 +23,12 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=rahmangamer12&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote%20Work-2ea44f?style=for-the-badge&labelColor=0f2027" />
+  <img src="https://img.shields.io/badge/Location-Karachi%20Pakistan-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-<img align="right" width="330" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="" style="opacity:0.08" />
-
 ## 🚀 About Me
 
 ```typescript
@@ -39,20 +38,20 @@ const abdul = {
   role: "AI-Native Web Developer",
   focus: ["WordPress", "Next.js", "Agentic AI"],
   currentlyLearning: "Panaversity Agent Factory (Digital FTEs)",
-  workflow: "I pair strong fundamentals with Claude Code to ship fast",
+  workflow: "Strong fundamentals + Claude Code + real shipping",
   motto: "Don't just use AI — build with it.",
   openTo: ["Freelance projects", "Remote junior roles", "Collaborations"]
 };
 ```
 
-I'm an **18-year-old developer** who builds real, production websites and web apps — not tutorials, actual shipped work. My core strength is **WordPress** (custom themes, plugins, REST APIs, WooCommerce), and I extend that with **Next.js** and **AI agents** to build sites that are fast, modern, and intelligent.
+I’m an 18-year-old developer focused on building real products, not just tutorials. My strongest edge is WordPress — custom themes, plugins, REST APIs, and WooCommerce — and I extend that with Next.js and AI agents to ship fast, modern, and intelligent websites.
 
-- 🔭 I build **custom WordPress plugins & themes** and **AI-powered websites**
-- 🌱 Mastering **Agentic AI** — OpenAI Agents SDK, MCP, and Digital FTEs
-- ⚡ In a live hiring test I built a full custom theme (CPT + AJAX filter + booking system) in **under 40 minutes**
-- 💬 Ask me about turning your existing website into an **AI-powered** one
+- 🔧 I build custom WordPress themes, plugins, and automation systems
+- 🤖 I create AI-powered web experiences with Next.js and modern tooling
+- ⚡ I’ve delivered fast, polished work under pressure in live technical tests
+- 💡 I’m currently exploring Agentic AI, MCP, and Digital FTE workflows
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -93,21 +92,25 @@ I'm an **18-year-old developer** who builds real, production websites and web ap
 <td width="50%" valign="top">
 
 ### 🤖 AutoReview AI
-> My SaaS product — an AI platform that helps businesses generate and manage customer review responses automatically.
+> AI-powered review management platform for businesses that want faster customer engagement and smarter responses.
 
 **Stack:** Next.js · Supabase · AI generation
 <br/>
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-38BDF8?style=for-the-badge&logoColor=white)](https://ai-review-writer.vercel.app/)
+<a href="https://ai-review-writer.vercel.app/">
+  <img src="https://img.shields.io/badge/▶%20Live%20Demo-38BDF8?style=for-the-badge&logoColor=white" alt="Live Demo" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 AIFOD Speaker Directory
-> Custom WordPress theme built in a live technical test: Speaker CPT, native meta boxes, AJAX org-filter, and a booking system — with clean git history.
+> Custom WordPress experience with CPTs, meta boxes, AJAX filtering, and booking flows built for a real technical challenge.
 
 **Stack:** WordPress · PHP · AJAX · Custom Post Types
 <br/>
-![Repo](https://img.shields.io/badge/🔗%20Add%20repo%20link-555?style=for-the-badge)
+<a href="https://github.com/rahmangamer12">
+  <img src="https://img.shields.io/badge/🔗%20Case%20Study-Private%20Project-555?style=for-the-badge" alt="Case Study" />
+</a>
 
 </td>
 </tr>
@@ -115,27 +118,31 @@ I'm an **18-year-old developer** who builds real, production websites and web ap
 <td width="50%" valign="top">
 
 ### 🔌 Custom WordPress Plugin
-> REST API plugin with secure endpoints — sanitized inputs, nonce verification, WP_Error validation, and Postman-tested routes.
+> Secure REST API plugin with validation, nonce checks, sanitized inputs, and testable endpoints.
 
 **Stack:** WordPress · PHP · REST API
 <br/>
-![Repo](https://img.shields.io/badge/🔗%20Add%20repo%20link-555?style=for-the-badge)
+<a href="https://github.com/rahmangamer12">
+  <img src="https://img.shields.io/badge/🔗%20Repository-Open%20Source-555?style=for-the-badge" alt="Repository" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Your Next.js / Vercel Project]
-> Replace this with any front-end app you deployed on Vercel. Add a one-line description and the live URL.
+### ⚡ AI-Ready Modern Web App
+> A polished front-end experience designed for speed, UX, and future AI integrations.
 
 **Stack:** Next.js · React · Vercel
 <br/>
-![Repo](https://img.shields.io/badge/🔗%20Add%20live%20link-555?style=for-the-badge)
+<a href="https://github.com/rahmangamer12">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Preview-Coming%20Soon-555?style=for-the-badge" alt="Preview" />
+</a>
 
 </td>
 </tr>
 </table>
 
-> 📌 **Pin your 4 best repos** on your profile so these show as cards. (Profile → Customize your pins)
+> 📌 Pin your best repositories on GitHub so they appear as featured cards in your profile.
 
 ---
 
@@ -147,10 +154,27 @@ I'm an **18-year-old developer** who builds real, production websites and web ap
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmangamer12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8" />
 </p>
 
-<!-- ===================== TROPHIES ===================== -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmangamer12&theme=tokyonight&hide_border=true&stroke=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmangamer12&theme=tokyo-night&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahmangamer12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
+
+---
+
+<!-- ===================== CONTRIBUTION FOCUS ===================== -->
+## 🌱 Contribution Focus
+
+- 🧩 Building reusable WordPress starter kits and plugin foundations
+- 🤝 Contributing to AI-assisted web development workflows
+- 🚀 Shipping practical projects that combine CMS power with modern frontend speed
+- 📚 Sharing what I learn through code, demos, and build-in-public work
 
 ---
 
@@ -168,19 +192,19 @@ graph LR
     style D fill:#38BDF8,color:#000
 ```
 
-- 📜 Completing the **Panaversity Agent Factory** certification (Level 1 → Digital FTEs)
-- 🧩 Building an open-source starter kit for **AI-powered WordPress sites**
+- 📜 Completing the Panaversity Agent Factory certification path
+- 🧩 Creating an open-source starter kit for AI-powered WordPress sites
 - 💼 Taking on freelance clients who want fast, modern, AI-integrated websites
-- 📢 Sharing what I learn — build-in-public posts on LinkedIn
+- 📢 Sharing build-in-public updates and practical lessons online
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
-## 📫 Let's Work Together
+## 📫 Let’s Work Together
 
 <p align="center">
-I'm available for <b>freelance projects, junior remote roles, and collaborations.</b><br/>
-Need a website built — or your current site turned into an AI-powered one? Let's talk. 👇
+I’m available for <b>freelance projects, junior remote roles, and collaborations.</b><br/>
+If you want a website built, or your current site turned into an AI-powered platform, let’s talk. 👇
 </p>
 
 <p align="center">
