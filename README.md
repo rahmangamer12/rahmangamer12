@@ -12,7 +12,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/rahmangamer12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI-Native+Developer+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0;WordPress+Themes+%26+Custom+Plugins+Specialist;Next.js+%2B+Claude+Code+%3D+Websites+Shipped+Fast;I+turn+ordinary+sites+into+AI-powered+ones" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=WordPress+Themes+%26+Custom+Plugins+Specialist;Next.js+%2B+Claude+Code+%3D+Websites+Shipped+Fast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -147,18 +147,9 @@ I'm an **18-year-old developer** who builds real, production websites and web ap
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmangamer12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahmangamer12&theme=tokyonight&hide_border=true&background=0f2027&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
 <!-- ===================== TROPHIES ===================== -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahmangamer12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmangamer12&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=38BDF8&line=38BDF8&point=ffffff&area=true" />
 </p>
 
 ---
