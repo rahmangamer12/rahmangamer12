@@ -12,7 +12,8 @@
 
 <!-- ===================== TOP BADGES ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulrehman-undercraft/"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://abdulrehman-undercraft.vercel.app"><img src="https://img.shields.io/badge/Portfolio-abdulrehman--undercraft-C6F432?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdulrehman-undercraft/"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://undercraftstudio.com"><img src="https://img.shields.io/badge/Co--Founder-Undercraft%20Studio-38BDF8?style=for-the-badge&labelColor=0f2027" alt="Undercraft Studio" /></a>
   <img src="https://komarev.com/ghpvc/?username=rahmangamer12&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Views" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-2ea44f?style=for-the-badge&labelColor=0f2027" alt="Open to work" />
@@ -152,6 +153,8 @@ Need an AI agent, a SaaS, an online store or a fast business website? Let's talk
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrehman-undercraft/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://undercraftstudio.com"><img src="https://img.shields.io/badge/Undercraft%20Studio-38BDF8?style=for-the-badge" alt="Undercraft Studio" /></a>
+  <a href="https://abdulrehman-undercraft.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C6F432?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://abdulrehman-undercraft.vercel.app/cv"><img src="https://img.shields.io/badge/CV-111111?style=for-the-badge" alt="CV" /></a>
   <a href="https://github.com/rahmangamer12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
