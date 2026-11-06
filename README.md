@@ -1,6 +1,6 @@
 <!-- ===================== HERO BANNER (animated) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Abdul%20Rehman&fontSize=70&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=AI%20Web%20Developer%20%26%20Agentic%20AI%20Engineer&descSize=22&descAlignY=60&v=2" width="100%" alt="Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Banner" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
@@ -127,10 +127,6 @@ I build **real products that are live on the internet**: AI-powered SaaS, multi-
 <!-- ===================== GITHUB STATS ===================== -->
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahmangamer12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8&icon_color=38BDF8" alt="Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmangamer12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8" alt="Top languages" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rahmangamer12&theme=tokyonight&hide_border=true&background=0f2027&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
 </p>
