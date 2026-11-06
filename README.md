@@ -1,6 +1,6 @@
 <!-- ===================== HERO BANNER (animated) ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Abdul Rehman: AI Web Developer &amp; Agentic AI Engineer" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
@@ -26,7 +26,6 @@
 
 ```typescript
 const abdul = {
-  age: 18,
   location: "Karachi, Pakistan 🇵🇰 · clients in Qatar & the Gulf",
   role: "AI Web Developer & Agentic AI Engineer",
   company: "Co-Founder @ Undercraft Studio · Founder @ Velcarro",
