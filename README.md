@@ -1,6 +1,6 @@
 <!-- ===================== HERO BANNER (animated) ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Abdul Rehman: AI Web Developer &amp; Agentic AI Engineer" />
+  <img src="./assets/hero.svg" width="100%" alt="Abdul Rehman: AI Web Developer &amp; Agentic AI Engineer" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
